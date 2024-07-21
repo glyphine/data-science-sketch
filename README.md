@@ -1,1 +1,1 @@
-# data-science-sketch
+# data-science-notes
